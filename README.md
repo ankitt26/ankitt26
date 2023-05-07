@@ -1,6 +1,6 @@
 ![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 
-<h1 align="center">Hi 👋, I'm Ankit kushaha</h1>
+<h1 align="center">Hi 👋, I'm Ankit kushwaha</h1>
 
 <h4 align="center" style="color:#B6EAFA" >A passoinoate Full stack development student from India 🙂. 
 <br>Currently learning Full Stack Web-development at Microverse, a remote software development <br> school where students collaborate globally and make real-world projects <br> to learn full-stack development. </h4>
