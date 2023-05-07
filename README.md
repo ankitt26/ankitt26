@@ -23,7 +23,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 - ⚡ Fun fact **I am addicted to coffee and street food 😊**
 <br>
-<br>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
