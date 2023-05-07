@@ -1,8 +1,9 @@
 ![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 
 <h1 align="center">Hi 👋, I'm Ankit kushaha</h1>
-<div align="center" > <h4 style="width: 520px;" >A passoinoate Full stack development student from India 🙂. 
-<br>Currently learning Full Stack Web-development at Microverse, a remote software development school where students collaborate globally and make real-world projects to learn full-stack development. </h4></div>
+
+<h4 align="center" >A passoinoate Full stack development student from India 🙂. 
+<br>Currently learning Full Stack Web-development at Microverse, a remote software development <br> school where students collaborate globally and make real-world projects <br> to learn full-stack development. </h4>
 
 <img alt="coding" align="right" width="400" 
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
@@ -31,9 +32,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ankit26kush"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankit26kush" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitt26&show_icons=true&locale=en&layout=compact" alt="ankitt26" /></p>
 
