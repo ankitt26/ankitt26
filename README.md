@@ -17,7 +17,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 - 👨‍💻 All of my projects are available at [https://ankitt26.github.io/Portfolio-setup/](https://ankitt26.github.io/Portfolio-setup/)
 
-- 💬 Ask me about **React, Redux, Javascript, Ruby, PostgreSQL.**
+- 💬 Ask me about **React, Redux, Javascript, Ruby, Ruby on Rails, PostgreSQL.**
 
 - 📫 How to reach me **ankit26kushwa@gmail.com**
 
