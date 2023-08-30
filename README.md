@@ -88,16 +88,22 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
 
 <h3>📈 My GitHub Stats:</h3>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitt26&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="ankitt26 GitHub stats" align="center"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitt26&theme=radical" alt="ankitt26 GitHub profile summary" align="right"/>
-</p>
-
-<table>
+<table align="center">
   <tr>
-  <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=ankitt26&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true">
-  </td>
-
-  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=ankitt26&theme=radical"></td>
-</tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitt26&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="ankitt26 GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitt26&theme=radical" alt="ankitt26 GitHub profile summary"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ankitt26&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true" alt="ankitt26 GitHub stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ankitt26&theme=radical" alt="ankitt26 GitHub streak stats"/>
+    </td>
+  </tr>
 </table>
+
