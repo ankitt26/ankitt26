@@ -86,11 +86,13 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca
   </a>                          
 </p>
 
-<h3>📈 My github stats:</h3>
+<h3>📈 My GitHub Stats:</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitt26&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="ankitt26 adio github stat" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitt26&hide=less,scss,hack&show_icons=true&theme=radical&layout=compact&langs_count=8" alt="ankitt26 GitHub stats" align="center"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitt26&theme=radical" alt="ankitt26 GitHub profile summary" align="right"/>
 </p>
+
 <table>
   <tr>
   <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=ankitt26&count_private=true&count_public=true&show_icons=true&&theme=radical&include_all_commits=true">
