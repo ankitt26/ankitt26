@@ -4,8 +4,8 @@
 
 <h4 align="center" style="color:#B6EAFA" >A passoinoate Full stack development student from India 🙂. 
 <br>Currently learning Full Stack Web-development at Microverse, a remote software development <br> school where students collaborate globally and make real-world projects <br> to learn full-stack development. </h4>
+<be>
 
-<br>
 <img alt="coding" align="right" width="400" 
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
